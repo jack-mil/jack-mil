@@ -8,9 +8,10 @@
    <summary><samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
-      <img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat&logo=Python&logoColor=white">
+      <img alt="Python" src="https://img.shields.io/badge/-Python-ffda4d?style=flat&logo=Python">
+      <img alt="Rust" src="https://img.shields.io/badge/-Rust-2e2459?style=flat&logo=rust&logoColor=white">
       <img alt="Octave" src="https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white">
-      <img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat&logo=Java&logoColor=white">
+      <img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat&logo=Java">
       <img alt="Shell" src="https://img.shields.io/badge/-Shells-4EAA25?style=flat&logo=gnubash&logoColor=white"><br>
       <a href="https://github.com/jack-mil?tab=repositories&language=java" target="_blank"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-blue?style=flat&logo=arduino&logoColor=white"></a>
       <a href="https://github.com/jack-mil?tab=repositories&language=java" target="_blank"><img alt="RPI" src="https://img.shields.io/badge/-RPI-A22846?style=flat&logo=raspberrypi&logoColor=white"></a>
