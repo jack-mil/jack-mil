@@ -1,7 +1,6 @@
-<h3 align="center"><samp>Welcome! I am Jack-Mil</samp></h3>
 <p align="center">
     <samp>
-    Computer Engineering Student 🖥
+    Computer Engineering, 2023 🖥
     </samp>
 </p>
 <details open align="center">
