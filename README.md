@@ -8,7 +8,6 @@
    <p align="center">
      <br>
       <img alt="Python" src="https://img.shields.io/badge/-Python-ffda4d?style=flat&logo=Python">
-      <img alt="Rust" src="https://img.shields.io/badge/-Rust-2e2459?style=flat&logo=rust&logoColor=white">
       <img alt="C" src="https://img.shields.io/badge/-C lang-00599D?style=flat&logo=C&logoColor=white">
       <img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat&logo=Java">
       <img alt="Octave" src="https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white">
