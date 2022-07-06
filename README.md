@@ -7,9 +7,9 @@
    <summary><samp>&#9776; Details</samp></summary>
    <p align="center">
      <br>
-      <a href="https://github.com/jack-mil?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-ffda4d?style=flat&logo=Python"></a>
+      <a href="https://github.com/jack-mil?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-ffda4d?style=flat&logo=Python"></a>
       <a href="https://github.com/jack-mil?tab=repositories" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C lang-00599D?style=flat&logo=C&logoColor=white"></a>
-      <a href="https://github.com/jack-mil?tab=repositories&q=&type=&language=assembly" target="_blank"><img alt="Assembly" src="https://img.shields.io/badge/-Assembly-b07219?style=flat&logo=Amazon-EC2&logoColor=black"></a>
+      <a href="https://github.com/jack-mil?tab=repositories&language=assembly" target="_blank"><img alt="Assembly" src="https://img.shields.io/badge/-Assembly-b07219?style=flat&logo=Amazon-EC2&logoColor=black"></a>
       <a href="https://github.com/jack-mil?tab=repositories" target="_blank"><img alt="Octave" src="https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white"></a>
       <a href="https://github.com/jack-mil?tab=repositories" target="_blank"><img alt="Shell" src="https://img.shields.io/badge/-Shells-4EAA25?style=flat&logo=gnubash&logoColor=black"></a>
       <br>
