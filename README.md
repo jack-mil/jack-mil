@@ -2,7 +2,7 @@
     <samp>
     Computer Engineering & <br>
     Hardware Design <br>
-    2023
+    PhD student @ GaTech 
     </samp>
 </p>
 <details open align="center">
@@ -10,7 +10,7 @@
    <p align="center">
      <br>
       <img alt="[Python]" src="https://img.shields.io/badge/-Python-ffda4d?style=flat&logo=Python">
-      <img alt="[Rust]" src="https://img.shields.io/badge/-Rust-2e2459?style=flat&logo=rust&logoColor=white">
+      <img alt="[C]" src="https://img.shields.io/badge/-2e2459?style=flat&logo=c&logoColor=white">
       <img alt="[Octave]" src="https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=octave&logoColor=white">
       <img alt="[Shell]" src="https://img.shields.io/badge/-Shells-4EAA25?style=flat&logo=gnubash&logoColor=white"><br>
       <img alt="[KiCAD]" src="https://img.shields.io/badge/-KiCAD-314CB0?style=flat&logo=kicad&logoColor=white">
