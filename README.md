@@ -2,7 +2,7 @@
     <samp>
     Computer Engineering & <br>
     Hardware Design <br>
-    PhD student @ GaTech 
+    PhD student 
     </samp>
 </p>
 <details open align="center">
