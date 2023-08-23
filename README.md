@@ -21,7 +21,7 @@
       <img alt="[Linux]" src="https://img.shields.io/badge/-LIN-FCC624?style=flat&logo=linux&logoColor=black">
       <a href="https://github.com/jack-mil?tab=repositories" target="_blank"><img alt="[more]" src="https://img.shields.io/badge/+-more...%3F-57BCDA?style=flat"></a>
   <br>
-  <a href="https://github.com/jack-mil"><img src="https://github-readme-stats.vercel.app/api?username=jack-mil&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=react" alt="[Jack-mil Github Stats]"></a>
+  <a href="https://github.com/jack-mil"><img src="https://github-readme-stats.vercel.app/api?username=jack-mil&hide=issues&count_private=true&include_all_commits=false&show_icons=true&theme=react" alt="[Jack-mil Github Stats]"></a>
   <br>
      <a href="https://github.com/jack-mil?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank"><img alt="[repo_count]" src="https://badges.strrl.dev/repos/jack-mil?logo=GitHub"/></a>
   </p>
